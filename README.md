@@ -1,2 +1,4 @@
 # gitflow-example
-#test
+# test
+# To improve is to change
+# There is nothing permament, except change
